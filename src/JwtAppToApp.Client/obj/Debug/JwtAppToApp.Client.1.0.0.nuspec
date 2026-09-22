@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>JwtAppToApp.Client</id>
+    <version>1.0.0</version>
+    <authors>Mahdiyeh Dehghan</authors>
+    <license type="expression">MIT</license>
+    <licenseUrl>https://licenses.nuget.org/MIT</licenseUrl>
+    <description>JWT app-to-app client library: token acquisition, caching, proactive refresh buffer, and typed API calls between services.</description>
+    <tags>jwt app-to-app authentication httpclient token-provider security</tags>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0">
+        <dependency id="Microsoft.AspNetCore.Authorization" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Http" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Http.Polly" version="8.0.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Options.ConfigurationExtensions" version="8.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="d:\users\dehghan.mahdiyeh\Desktop\JwtAppToApp.NuGet.Sample\JwtAppToApp.NuGet\src\JwtAppToApp.Client\bin\Debug\net8.0\JwtAppToApp.Client.dll" target="lib\net8.0\JwtAppToApp.Client.dll" />
+    <file src="d:\users\dehghan.mahdiyeh\Desktop\JwtAppToApp.NuGet.Sample\JwtAppToApp.NuGet\src\JwtAppToApp.Client\bin\Debug\net8.0\JwtAppToApp.Client.xml" target="lib\net8.0\JwtAppToApp.Client.xml" />
+  </files>
+</package>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JwtAppToApp.Client</name>
+    </assembly>
+    <members>
+        <member name="T:JwtAppToApp.Client.Abstractions.IApiClient">
+            <summary>
+            Typed client that automatically attaches JWT bearer tokens.
+            </summary>
+        </member>
+        <member name="M:JwtAppToApp.Client.Abstractions.IApiClient.DeleteAsync(System.String,System.Threading.CancellationToken)">
+            <summary>
+            Sends a DELETE request when the API does not return a response body.
+            </summary>
+        </member>
+        <member name="M:JwtAppToApp.Client.Abstractions.IApiClient.DeleteAsync``1(System.String,System.Threading.CancellationToken)">
+            <summary>
+            Sends a DELETE request when the API returns a JSON response.
+            </summary>
+        </member>
+        <member name="T:JwtAppToApp.Client.Authentication.JwtHandler">
+            <summary>
+            Authorization handler demonstrating service-to-service policy: requires an authenticated
+            principal whose "sub" claim matches the configured client id.
+            </summary>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,14 @@
+d:\users\dehghan.mahdiyeh\Desktop\JwtAppToApp.NuGet.Sample\JwtAppToApp.NuGet\src\JwtAppToApp.Client\bin\Debug\net9.0\JwtAppToApp.Client.deps.json
+d:\users\dehghan.mahdiyeh\Desktop\JwtAppToApp.NuGet.Sample\JwtAppToApp.NuGet\src\JwtAppToApp.Client\bin\Debug\net9.0\JwtAppToApp.Client.dll
+d:\users\dehghan.mahdiyeh\Desktop\JwtAppToApp.NuGet.Sample\JwtAppToApp.NuGet\src\JwtAppToApp.Client\bin\Debug\net9.0\JwtAppToApp.Client.pdb
+d:\users\dehghan.mahdiyeh\Desktop\JwtAppToApp.NuGet.Sample\JwtAppToApp.NuGet\src\JwtAppToApp.Client\bin\Debug\net9.0\JwtAppToApp.Client.xml
+d:\users\dehghan.mahdiyeh\Desktop\JwtAppToApp.NuGet.Sample\JwtAppToApp.NuGet\src\JwtAppToApp.Client\obj\Debug\net9.0\JwtAppToApp.Client.csproj.AssemblyReference.cache
+d:\users\dehghan.mahdiyeh\Desktop\JwtAppToApp.NuGet.Sample\JwtAppToApp.NuGet\src\JwtAppToApp.Client\obj\Debug\net9.0\JwtAppToApp.Client.GeneratedMSBuildEditorConfig.editorconfig
+d:\users\dehghan.mahdiyeh\Desktop\JwtAppToApp.NuGet.Sample\JwtAppToApp.NuGet\src\JwtAppToApp.Client\obj\Debug\net9.0\JwtAppToApp.Client.AssemblyInfoInputs.cache
+d:\users\dehghan.mahdiyeh\Desktop\JwtAppToApp.NuGet.Sample\JwtAppToApp.NuGet\src\JwtAppToApp.Client\obj\Debug\net9.0\JwtAppToApp.Client.AssemblyInfo.cs
+d:\users\dehghan.mahdiyeh\Desktop\JwtAppToApp.NuGet.Sample\JwtAppToApp.NuGet\src\JwtAppToApp.Client\obj\Debug\net9.0\JwtAppToApp.Client.csproj.CoreCompileInputs.cache
+d:\users\dehghan.mahdiyeh\Desktop\JwtAppToApp.NuGet.Sample\JwtAppToApp.NuGet\src\JwtAppToApp.Client\obj\Debug\net9.0\JwtAppToApp.Client.dll
+d:\users\dehghan.mahdiyeh\Desktop\JwtAppToApp.NuGet.Sample\JwtAppToApp.NuGet\src\JwtAppToApp.Client\obj\Debug\net9.0\refint\JwtAppToApp.Client.dll
+d:\users\dehghan.mahdiyeh\Desktop\JwtAppToApp.NuGet.Sample\JwtAppToApp.NuGet\src\JwtAppToApp.Client\obj\Debug\net9.0\JwtAppToApp.Client.xml
+d:\users\dehghan.mahdiyeh\Desktop\JwtAppToApp.NuGet.Sample\JwtAppToApp.NuGet\src\JwtAppToApp.Client\obj\Debug\net9.0\JwtAppToApp.Client.pdb
+d:\users\dehghan.mahdiyeh\Desktop\JwtAppToApp.NuGet.Sample\JwtAppToApp.NuGet\src\JwtAppToApp.Client\obj\Debug\net9.0\ref\JwtAppToApp.Client.dll
