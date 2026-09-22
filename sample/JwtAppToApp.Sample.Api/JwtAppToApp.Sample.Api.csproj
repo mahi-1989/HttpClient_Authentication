@@ -1,0 +1,12 @@
+<PropertyGroup>
+	<TargetFramework>net9.0</TargetFramework>
+	<Nullable>enable</Nullable>
+	<ImplicitUsings>enable</ImplicitUsings>
+
+	<PackageId>JwtAppToApp.Client</PackageId>
+	<Version>1.0.0</Version>
+	<Authors>نام شما</Authors>
+	<Description>
+		Client library for JWT app-to-app authentication and authorized HTTP requests.
+	</Description>
+</PropertyGroup>

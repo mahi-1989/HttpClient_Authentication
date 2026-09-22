@@ -6,9 +6,9 @@ public sealed class JwtAppToAppOptions
 
     public string Password { get; set; } = string.Empty;
 
-    public string LoginUrl { get; set; } ="/api/authentication/login";
+    public string LoginUrl { get; set; } = "YOUR_LOGIN_URL";
 
-    public string BaseUrl { get; set; } = "http://airicapi.airic-ir.com/";
+    public string BaseUrl { get; set; } = "YOUR_BASE_URL";
     public string RefreshTokenUrl { get; set; } = string.Empty;
 
    // public int ExpireMinutes { get; set; } = 5;
